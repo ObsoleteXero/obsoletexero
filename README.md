@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+My name is ObsoleteXero, and I'm learning Computer Science.
+
+#### 🌱 I’m currently learning
+- Basic Computer Science
+- Python
+- C
+
+#### 💡 I want to someday learn
+- Rust
+- AI
+- DevOps
+
+
 <!--
 **ObsoleteXero/obsoletexero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
