@@ -12,7 +12,7 @@ My name is ObsoleteXero, and I'm learning Computer Science.
 - AI
 - DevOps
 
-
+Find me on Discord - Xero#8002 (230685642319855629)
 <!--
 **ObsoleteXero/obsoletexero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
