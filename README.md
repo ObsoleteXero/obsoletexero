@@ -1,18 +1,25 @@
 ### Hi there 👋
 
-My name is ObsoleteXero, and I'm learning Computer Science.
+My name is ObsoleteXero, and this is where I keep things I've made.
 
-#### 🌱 I’m currently learning
-- Basic Computer Science
-- Python
-- C
-
-#### 💡 I want to someday learn
+#### 🌱 I’m currently working with
 - Rust
-- AI
-- DevOps
+- Python
+- TypeScript
+- LaTeX
 
-Find me on Discord - Xero#8002 (230685642319855629)
+#### ✨ I'm currently learning
+- Web Development (NextJS et al.)
+- Basic Computer Science
+- Mathematics for Computer Science
+
+#### 💡 I'm interested in
+- Systems Administration
+- Low-level Programming
+- DevOps
+- Homelabbing
+
+📫 Find me on Discord - obsoletexero (`230685642319855629`)
 <!--
 **ObsoleteXero/obsoletexero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
